@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @robandpdx
-- 👀 I’m interested in wine, food, and surfing.
-- 🌱 I’m currently learning Spanish
-- 💞️ I’m looking to collaborate on anything fun!
+- 👋 Hi, I’m @robandpdx.
+- 👀 I’m interested in wine, food, traveling, and surfing.
+- 🌱 I’m currently learning Spanish.
+- 💞️ I enjoy creating elegant, cloud native solutions!
 - 📫 Find me on [LinkedIn here](https://www.linkedin.com/in/robandpdx/)
 
 <!---
