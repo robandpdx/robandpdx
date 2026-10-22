@@ -16,7 +16,7 @@
 - [Advanced CODEOWNERS](https://github.com/robandpdx/advanced-codeowners-aws) - CODEOWNERS for monorepos.
 - [Emergency Pull Request Probot App AWS](https://github.com/github/emergency-pull-request-probot-app) - A [Probot app](https://probot.github.io/) that allows users to bypass branch protection rules in an emergency. Deploys to AWS.
 - [Emergency Pull Request Probot App Azure](https://github.com/robandpdx/emergency-pull-request-probot-azure) - A [Probot app](https://probot.github.io/) that allows users to bypass branch protection rules in an emergency. Deploys to Azure.
-- [GitHub Org App Installer](https://github.com/robandpdx/github-org-app-installer) - A [Probot app](https://probot.github.io/) to install an app in your enterprise organizations.
+- [GitHub Org App Installer](https://github.com/robandpdx/github-org-app-installer) - A [Probot app](https://probot.github.io/) to install a set of apps in all your enterprise organizations.
 <!---
 robandpdx/robandpdx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
