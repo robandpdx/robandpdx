@@ -16,6 +16,7 @@
 - [Advanced CODEOWNERS](https://github.com/robandpdx/advanced-codeowners-aws) - CODEOWNERS for monorepos.
 - [Emergency Pull Request Probot App AWS](https://github.com/github/emergency-pull-request-probot-app) - A [Probot app](https://probot.github.io/) that allows users to bypass branch protection rules in an emergency. Deploys to AWS.
 - [Emergency Pull Request Probot App Azure](https://github.com/robandpdx/emergency-pull-request-probot-azure) - A [Probot app](https://probot.github.io/) that allows users to bypass branch protection rules in an emergency. Deploys to Azure.
+- [GitHub Org App Installer](https://github.com/robandpdx/github-org-app-installer) - A [Probot app](https://probot.github.io/) to install an app in your enterprise organizations.
 <!---
 robandpdx/robandpdx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -25,5 +26,7 @@ You can click the Preview link to take a look at your changes.
 - [Check Value Regex](https://github.com/robandpdx/check-value-regex) - A GitHub Action to validate values against a regular expression.
 
 ### Other Projects
+- [AWS Serverless Web Hosting + Contact Form](https://github.com/robandpdx/aws-serverless-web-hosting-plus-contact) - An AWS SAM template for serverless static website hosting with SSL and a reCAPTCHA-protected contact form.
+- [GitHub Data Lake on AWS](https://github.com/robandpdx/my-gh-aws-data-lake) - An AWS SAM application to ingest GitHub webhooks, audit logs, and Copilot reports into a data lake for analysis with Amazon Athena.
 - [Paloma](https://github.com/robandpdx/paloma) - A web frontend for repository migrations using [GEI](https://docs.github.com/en/migrations/using-github-enterprise-importer).
 - [runner](https://github.com/robandpdx/runner) - A GitHub Actions runner image for [ARC](https://github.com/actions/actions-runner-controller).
