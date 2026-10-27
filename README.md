@@ -1,7 +1,7 @@
 # 👋 Hi there! I’m @robandpdx
 
-- 👋 I'm a Senior DevOps Engineer at GitHub.  
-- 👀 I’m interested in wine, food, traveling, and surfing.  
+- 👋 I'm a Senior Services Delivery Engineer at GitHub.  
+- 👀 I’m interested in food, wine, traveling, and surfing.  
 - 🌱 I’m currently learning Spanish (CEFR B3 Level).  
 - 💞️ I enjoy creating elegant, cloud native solutions!  
 - 📫 Find me on [LinkedIn here](https://www.linkedin.com/in/robandpdx/).  
