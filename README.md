@@ -1,8 +1,7 @@
-# 👋 Hi there! I’m @robandpdx
-
+# 👋 Hi there! I’m Robert Anderson
 - 👋 I'm a Senior Services Delivery Engineer at GitHub.  
 - 👀 I’m interested in food, wine, traveling, and surfing.  
-- 🌱 I’m currently learning Spanish (CEFR B3 Level).  
+- 🌱 I’m currently learning Spanish (CEFR B2 Level).  
 - 💞️ I enjoy creating elegant, cloud native solutions!  
 - 📫 Find me on [LinkedIn here](https://www.linkedin.com/in/robandpdx/).  
 
